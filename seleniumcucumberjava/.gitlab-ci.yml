@@ -1,8 +1,0 @@
-image: alpine:latest
-
-stages:
-  - test
-
-test:
-  script:
-    - git --versions
